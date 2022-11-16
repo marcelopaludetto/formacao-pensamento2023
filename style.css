@@ -8,3 +8,19 @@ body {
     text-align: center;
     color: rgb(255, 255, 255);
 }
+
+#imagem-sala-de-aula {
+    width: 200px;
+    padding-top: 100px;
+}
+
+.paragrafo-1{
+    color: black;
+}
+
+.titulo-1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+
+}
