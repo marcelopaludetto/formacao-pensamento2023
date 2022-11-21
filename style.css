@@ -1,26 +1,38 @@
 p {
     font-size: 16px;
     font-weight: bold;
- 
+
 }
+
 body {
     background-color: rgb(76, 155, 234);
-    text-align: center;
     color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 #imagem-sala-de-aula {
     width: 200px;
-    padding-top: 100px;
 }
 
-.paragrafo-1{
+.paragrafo-1 {
     color: black;
 }
 
-.titulo-1{
-    margin-top: 100px;
+.titulo-1 {
     margin-bottom: 100px;
-    
+}
 
+.conteudo{
+    margin-top: 100px;
+    background-color: rgb(81, 81, 162);
+    border: 2px solid black;
+}
+
+.lista{
+    display: inline-block;
+ 
+}
+
+.item-lista{
+    text-transform: lowercase; 
 }
